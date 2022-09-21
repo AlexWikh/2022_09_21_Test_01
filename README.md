@@ -13,4 +13,5 @@ You can simulate these errors if you try to build the project: Build > Make Proj
 I want to apply John Engelman's conflicting dependency shading plugin:<br/>
 https://imperceptiblethoughts.com/shadow/
 
-And shade com.google.api.grpc:proto-google-common-protos:2.9.2, but I can't do it.
+And shade com.google.api.grpc:proto-google-common-protos:2.9.2, but I can't do it:<br/>
+https://github.com/AlexWikh/2022_09_21_Test_02
